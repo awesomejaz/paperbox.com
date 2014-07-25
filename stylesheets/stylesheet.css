@@ -421,3 +421,21 @@ Small Device Styles
   }
 
 }
+
+ h1{
+  text-align:center; 
+  color:red; 
+ }
+* {
+ background-color:beige;
+  text-align:center;
+  
+}
+ h3{
+  color:green; 
+   
+ }
+ h5{
+  color:blue; 
+   
+ }
